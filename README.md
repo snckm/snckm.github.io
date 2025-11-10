@@ -34,7 +34,7 @@ Check out my live portfolio: [snckm.github.io](https://snckm.github.io/)
 ## 📫 Let's Connect
 
 - GitHub: [SarbaNanda Chakma](https://github.com/snckm)
-- LinkedIn: [linkedin.com/in/sn_ckm](https://linkedin.com/in/sn_ckm)
+- LinkedIn: [linkedin.com/in/@snckm](https://www.linkedin.com/in/sarbananda-chakma-094730398/)
 - Email: <sarbanandachakma@gmail.com>
 
 ---
