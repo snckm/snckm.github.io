@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SarbaNanda Chakma | Web Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>SarbaNanda Chakma</h1>
+    <p>Full-Stack Web Developer | JavaScript & Python</p>
+
+    <!-- Responsive Navigation -->
+    <div class="nav-container">
+      <div class="menu-icon" id="menu-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <nav class="nav-links" id="nav-links">
+        <img src="assets/profile.png" alt="SarbaNanda Chakma" class="nav-profile" />
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+
+        <label class="theme-toggle">
+          <input type="checkbox" id="dark-toggle" hidden />
+          <span id="toggle-icon">🌙 Dark Mode</span>
+        </label>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="about" class="reveal">
+      <img src="assets/profile.png" alt="SarbaNanda Chakma" />
+      <h2>About Me</h2>
+      <p>
+        I'm a passionate full-stack developer with expertise in JavaScript and
+        Python. I build scalable web applications, craft intuitive UIs, and
+        architect robust backends.
+      </p>
+    </section>
+
+    <section id="projects" class="reveal">
+      <h2>Featured Projects</h2>
+      <div class="project">
+        <h3>GitHub Portfolio</h3>
+        <p>
+          A sleek portfolio hosted on GitHub Pages showcasing my skills and
+          projects.
+        </p>
+        <a href="https://github.com/snckm" target="_blank">View GitHub</a>
+      </div>
+    </section>
+
+    <section id="contact" class="reveal">
+      <h2>Contact Me</h2>
+      <p>
+        Email:
+        <a href="mailto:sarbanandachakma@gmail.com">
+          sarbanandachakma@gmail.com
+        </a>
+      </p>
+      <p>
+        GitHub:
+        <a href="https://github.com/snckm" target="_blank">github.com/snckm</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> SarbaNanda Chakma</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
