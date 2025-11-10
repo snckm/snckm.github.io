@@ -26,7 +26,7 @@ I'm a hands-on developer who blends technical precision with creative expression
 
 ## 🌐 Portfolio
 
-Check out my live portfolio: [sarbananda.github.io](https://sarbananda.github.io)  
+Check out my live portfolio: [snckm.github.io](https://snckm.github.io/)  
 *(Coming soon — stay tuned for a showcase of my best work!)*
 
 ---
